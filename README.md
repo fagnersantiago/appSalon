@@ -1,1 +1,1 @@
-"# appSalon" 
+"# Front End de projeto AppSalon" 
